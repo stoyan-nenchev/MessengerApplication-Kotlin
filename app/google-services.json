@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966713812718",
+    "project_id": "messageapplication-4c262",
+    "storage_bucket": "messageapplication-4c262.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966713812718:android:ef60da8b976f1f652ab5ff",
+        "android_client_info": {
+          "package_name": "bg.uni_plovdiv.messageapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966713812718-7vptestd4579di9t7su4ko2f97k4ld6s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUUC0BHJICNgUdkltOgCwMResgik1jCHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966713812718-7vptestd4579di9t7su4ko2f97k4ld6s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
